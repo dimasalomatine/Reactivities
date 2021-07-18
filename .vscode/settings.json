@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Reactivities}/API/activities.db",
+            "name": "activities"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
